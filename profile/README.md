@@ -10,11 +10,13 @@ Selamat datang di repositori resmi **Himpunan Mahasiswa Software Engineering (HM
 
 ### 🚀 Visi & Misi
 
-- **Visi:** Menjadi wadah kolaboratif yang inklusif untuk mencetak talenta _Software Engineering_ yang unggul, inovatif, dan berdaya saing global.
+- **Visi:** Mewujudkan ekosistem pengembangan perangkat lunak yang inovatif, kolaboratif dan berintegritas bagi mahasiswa software engineering. 
 - **Misi:**
-  1.  Menyelenggarakan kegiatan pelatihan dan pengembangan berkala di bidang pemrograman.
-  2.  Membangun ekosistem kolaborasi proyek _open-source_ antar mahasiswa.
-  3.  Menjalin jaringan profesional dengan industri teknologi melalui seminar dan lokakarya.
+  1.  Mewujudkan tali silaturahmi mahasiswa/i jurusan software engineering.
+  2.  Mengembangkan program pembelajaran, pelatihan dan proyek rekayasa perangkat lunak yang inovatif, berkualitas dan berkelanjutan.
+  3.  Menjadi pusat pengembangan teknologi dan kreatifitas mahasiswa software engineering.
+  4.  Menjalankan kegiatan kemasyarakatan yang bermanfaat.
+  5.  Menjalin hubungan yang baik dengan seluruh Organisasi Kemahasiswaan di Indonesia.
 
 ---
 
